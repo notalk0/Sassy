@@ -1,3 +1,5 @@
 # Sassy
 
-This project is learning materials.
+This is a learning projecy.
+
+Source: https://www.youtube.com/watch?v=roywYSEPSvc
